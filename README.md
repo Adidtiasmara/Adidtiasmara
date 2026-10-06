@@ -1,13 +1,13 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=200§ion=header&text=Muhammad%20Firman%20Aditiasmara&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Flutter%20%26%20Dart%20%7C%20Vue%20%26%20Laravel&descAlignY=58&descSize=16"
-  alt="Muhammad Firman Aditiasmara"
-  width="100%"
-/>
+  <img
+    src="https://github.com/Adidtiasmara.png?size=200"
+    alt="Muhammad Firman Aditiasmara"
+    width="160"
+    style="border-radius: 50%;"
+  />
 
-
----
+  <h1>Muhammad Firman Aditiasmara</h1>
 
 ## About
 
