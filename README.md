@@ -31,7 +31,9 @@ Mahasiswa D4 Teknik Informatika, Jurusan Teknologi Informasi, Politeknik Negeri 
 | **[SnapFit](https://github.com/Adidtiasmara/SnapFit)** | Platform web yang menghubungkan UMKM dengan desainer: dashboard per peran, AI Product Studio untuk rendering produk, dan Co-Create Room realtime. | Laravel, Vue 3, Tailwind, Vite |
 | **[Treemina Sleep](https://github.com/Adidtiasmara/TreeminaSleep)** | Aplikasi mobile pencatat tidur: mulai dan akhiri sesi, atur target jam tidur, lihat grafik durasi dan status kualitas tidur. Data tersinkron ke Supabase. | Flutter, Dart, Supabase, Provider |
 | **[Capsee](https://github.com/Adidtiasmara/capsee)** | Aplikasi mobile untuk petani cabai: data lahan, jadwal perawatan, riwayat aktivitas, dan hasil scan kesehatan tanaman. Proyek PBL Semester 5. | Flutter, Dart |
-| **[LabBA](https://github.com/Adidtiasmara/lab-ba/tree/prod)** | Platform web sebagai profil Lab Business Analytics Politeknik Negeri Malang. Proyek PBL Semester 5. | HTML, CSS, JavaScript, MySql |
+| **[LabBA](https://github.com/Adidtiasmara/lab-ba/tree/prod)** | Platform web sebagai profil Lab Business Analytics Politeknik Negeri Malang. Proyek PBL Semester 3. | HTML, CSS, JavaScript, MySql |
+| **[ClipFluence](https://github.com/hafisc/clipfluence)** | Clipfluence adalah platform berbasis web yang dibangun untuk membantu para clipper untuk membuat clip secara otomatis menggunakan bantuan AI. Proyek PBL Semester 4. | Laravel 12, TailwindCSS 4, Groq AI |
+
 
 ---
 
