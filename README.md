@@ -1,120 +1,68 @@
-<!-- ================= HERO ================= -->
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=200§ion=header&text=Muhammad%20Firman%20Aditiasmara&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Flutter%20%26%20Dart%20%7C%20Vue%20%26%20Laravel&descAlignY=58&descSize=16"
+  alt="Muhammad Firman Aditiasmara"
+  width="100%"
+/>
+
+
+---
+
+## About
+
+Mahasiswa D4 Teknik Informatika, Jurusan Teknologi Informasi, Politeknik Negeri Malang. Repositori ini memuat proyek kuliah, tugas PBL, dan eksperimen belajar saya.
+
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=200&section=header&text=Adidtiasmara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Crafting+clean+UI+%26+smooth+UX;Always+learning+something+new" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,vue,laravel,tailwind,php,python,supabase,firebase,docker,git,vscode" alt="Dart, Flutter, Vue, Laravel, Tailwind CSS, PHP, Python, Supabase, Firebase, Docker, Git, VS Code" />
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+## Projects
 
-## ⚡ About Me
-
-```ts
-const adit = {
-  name: "Adidtiasmara",
-  role: "Frontend Developer",
-  location: "Indonesia 🇮🇩",
-  focus: ["React", "UI/UX", "Modern Web"],
-  currentlyLearning: [
-    "Advanced Frontend Architecture",
-    "Performance Optimization",
-  ],
-  funFact: "I debug more than I code 😄",
-};
-```
+| Project | Deskripsi | Stack |
+| :--- | :--- | :--- |
+| **[SnapFit](https://github.com/Adidtiasmara/SnapFit)** | Platform web yang menghubungkan UMKM dengan desainer: dashboard per peran, AI Product Studio untuk rendering produk, dan Co-Create Room realtime. | Laravel, Vue 3, Tailwind, Vite |
+| **[Treemina Sleep](https://github.com/Adidtiasmara/TreeminaSleep)** | Aplikasi mobile pencatat tidur: mulai dan akhiri sesi, atur target jam tidur, lihat grafik durasi dan status kualitas tidur. Data tersinkron ke Supabase. | Flutter, Dart, Supabase, Provider |
+| **[Capsee](https://github.com/Adidtiasmara/capsee)** | Aplikasi mobile untuk petani cabai: data lahan, jadwal perawatan, riwayat aktivitas, dan hasil scan kesehatan tanaman. Proyek PBL Semester 5. | Flutter, Dart |
+| **[LabBA](https://github.com/Adidtiasmara/lab-ba/tree/prod)** | Platform web sebagai profil Lab Business Analytics Politeknik Negeri Malang. Proyek PBL Semester 5. | HTML, CSS, JavaScript, MySql |
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-
-## 🧰 Tech Stack
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adidtiasmara&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adidtiasmara&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tools-Google-4285F4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Tools-StackOverflow-FE7A16?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Tools-ChatGPT-74aa9c?style=flat-square"/>
+  <img src="https://streak-stats.demolab.com?user=Adidtiasmara&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
+
 
 ---
 
-<!-- ================= STATS ================= -->
-
-## 📊 GitHub Analytics
-
+## Connect
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Adidtiasmara&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/Adidtiasmara"><img src="https://img.shields.io/badge/GitHub-Adidtiasmara-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<!-- Tambahkan badge Email dan LinkedIn di sini setelah datanya tersedia -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adidtiasmara&style=flat-square&color=2F81F7&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
 
-<!-- ================= PROJECT ================= -->
-
-
-
-<!-- ================= ACTIVITY ================= -->
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adidtiasmara&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-<!-- ================= PHILOSOPHY ================= -->
-
-## 🌙 Dev Philosophy
-
-<p align="center">
-  <i>
-    "Build. Break. Learn. Repeat."<br/>
-    Consistency beats motivation.
-  </i>
-</p>
-
----
-
-<!-- ================= CONNECT ================= -->
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://github.com/Adidtiasmara">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
-  <a href="https://linkedin.com/in/USERNAME_KAMU">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="mailto:EMAIL_KAMU">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-</p>
-
----
-
-<!-- ================= VISITOR ================= -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adidtiasmara&style=flat-square&color=58A6FF"/>
-</p>
-
----
-
-<!-- ================= FOOTER ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=120§ion=footer" alt="" width="100%" />
+</div>
